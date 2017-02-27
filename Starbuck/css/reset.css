@@ -1,0 +1,43 @@
+select{
+	list-style: none;
+}
+
+ul a{
+	text-decoration: none;
+}
+
+
+
+nav ul {
+    list-style:none;
+}
+
+
+html,body,div,h1,h2,h3,h4,h5,h6,p{
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+
+
+
+
+a:link,a:hover,a:active,a:visited{text-decoration:none;}
+
+
+@charset "utf-8";
+/* CSS Document */
+
+/*reset*/
+
+@font-face {
+    font-family: 'fontawesomeregular';
+    src: url('../font/fontawesome-webfont.eot');
+    src: url('../font/fontawesome-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/fontawesome-webfont.woff2') format('woff2'),
+         url('../font/fontawesome-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
